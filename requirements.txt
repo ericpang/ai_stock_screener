@@ -1,4 +1,4 @@
-ib_insync
+yfinance
 ta
 pandas
 numpy
