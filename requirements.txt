@@ -1,0 +1,7 @@
+ib_insync
+ta
+pandas
+numpy
+xgboost
+scikit-learn
+matplotlib
